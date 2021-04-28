@@ -2,8 +2,9 @@ Name        : final-project.cpp
 
 Authors     : Sk Ayon, Daniel Lichter, Daniel Rosenthal
 
-Final NAC Printing Project (Fall 2019)
+School Library Printing System Project (Fall 2019)
 ============================================================================
+CSc 21200 - Data Structures
 
 The following is a virtual printing system that was written to emulate our school library's printing system.
 Student and Admin classes (that inherit from a User base class) can have objects declared dynamically.
